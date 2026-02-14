@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: Sports vs. Politics Classifier
+description: A Machine Learning NLP Project comparing Naive Bayes, SVM, and Random Forest.
+show_downloads: true
+google_analytics:
