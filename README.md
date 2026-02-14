@@ -35,12 +35,12 @@ The models were evaluated on a held-out test set. **Multinomial Naive Bayes** ac
 
 ### Confusion Matrices
 The script automatically generates confusion matrices for each model. You can view them in the repository:
-- `Naive_Bayes_cm.png`
-- `Linear_SVM_cm.png`
-- `Logistic_Regression_cm.png`
-- `Random_Forest_cm.png`
-- `K-Nearest_Neighbors_cm.png`
-- `Gradient_Boosting_cm.png`
+![Naive Bayes Matrix](Naive_Bayes_cm.png)
+![Linear SVM Matrix](Linear_SVM_cm.png)
+![Logistic Regression Matrix](Logistic_Regression_cm.png)
+![Random Forest Matrix](Random_Forest_cm.png)
+![KNN Matrix](K-Nearest_Neighbors_cm.png)
+![Gradient Boosting Matrix](Gradient_Boosting_cm.png)
 
 ## 🚀 How to Run
 1. **Install Dependencies:**
